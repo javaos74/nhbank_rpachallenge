@@ -3,10 +3,10 @@
   "description": "농협은행 RPA 챌린지 ",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.12.3]",
-    "UiPath.Mail.Activities": "[1.15.2]",
-    "UiPath.System.Activities": "[22.4.1]",
-    "UiPath.UIAutomation.Activities": "[22.4.5]"
+    "UiPath.Excel.Activities": "[2.14.0-preview]",
+    "UiPath.Mail.Activities": "[1.17.0-preview]",
+    "UiPath.System.Activities": "[22.8.0-preview]",
+    "UiPath.UIAutomation.Activities": "[22.8.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
