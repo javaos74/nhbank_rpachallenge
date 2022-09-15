@@ -61,6 +61,12 @@
       "uniqueId": "7c7016f0-ab0d-46c2-89f2-d5134f661747",
       "input": [],
       "output": []
+    },
+    {
+      "filePath": "5min\\5MinSchedule.xaml",
+      "uniqueId": "469e7ae9-873c-43e7-9d70-eb6b4323b504",
+      "input": [],
+      "output": []
     }
   ],
   "isTemplate": false,
