@@ -73,7 +73,7 @@
       <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
     </scg:List>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="5분마다 스케줄 걸 작업 &#xD;&#xA;&#xD;&#xA;입력 메세지를 넣어주면 로그에 출력 됨, 안넣어주면 NH은행 메세지 출력 &#xD;&#xA;RandomFailure 사용하면 절반은 실패, 절반은 성으로 처리 &#xD;&#xA;" DisplayName="_5MinSchedule" sap:VirtualizedContainerService.HintSize="584,1144.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="5분마다 스케줄 걸 작업 &#xD;&#xA;&#xD;&#xA;입력 메세지를 넣어주면 로그에 출력 됨, 안넣어주면 NH은행 메세지 출력 &#xD;&#xA;RandomFailure 사용하면 절반은 실패, 절반은 성공으로 처리 &#xD;&#xA;" DisplayName="_5MinSchedule" sap:VirtualizedContainerService.HintSize="584,1144.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:Int64" Name="next_val" />
       <Variable x:TypeArguments="x:String" Name="message" />
