@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.4.3.0",
-  "projectVersion": "1.0.2",
+  "projectVersion": "1.0.3",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -67,10 +67,18 @@
       "uniqueId": "469e7ae9-873c-43e7-9d70-eb6b4323b504",
       "input": [],
       "output": []
+    },
+    {
+      "filePath": "StreamingRecording\\ui_selector_error.xaml",
+      "uniqueId": "3b0db9da-9aa5-4f3f-8642-97576ae6ba18",
+      "input": [],
+      "output": []
     }
   ],
   "isTemplate": false,
   "templateProjectData": {},
-  "publishData": {},
+  "publishData": {
+    "iconUrl": ".package/nhicon.png"
+  },
   "targetFramework": "Windows"
 }
