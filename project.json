@@ -1,7 +1,7 @@
 {
   "name": "RPA챌린지",
   "projectId": "793282d4-696d-4836-b277-1da881b829bf",
-  "description": "농협은행 RPA 챌린지 ",
+  "description": "신한은행 RPA 챌린지 ",
   "main": "Standalone.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.22.3]",
@@ -13,7 +13,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.4.3.0",
-  "projectVersion": "1.0.5",
+  "projectVersion": "1.0.6",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
