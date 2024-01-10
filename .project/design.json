@@ -1,10 +1,7 @@
 {
   "Tags": [
     {
-      "Key": "Demo"
-    },
-    {
-      "Key": "NHBank"
+      "Key": "Shinhan"
     }
   ],
   "SeparateRuntimeDependencies": true,
