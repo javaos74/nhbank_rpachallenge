@@ -2,7 +2,7 @@
   "name": "NHBank_RPA챌린지",
   "projectId": "793282d4-696d-4836-b277-1da881b829bf",
   "description": "농협은행 RPA 챌린지 ",
-  "main": "Main.xaml",
+  "main": "Standalone.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.22.3]",
     "UiPath.Mail.Activities": "[1.21.1]",
@@ -75,6 +75,12 @@
     {
       "filePath": "StreamingRecording\\ui_selector_error.xaml",
       "uniqueId": "3b0db9da-9aa5-4f3f-8642-97576ae6ba18",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Standalone.xaml",
+      "uniqueId": "aaf68aa9-473a-4c65-8b1d-15abb1b83e18",
       "input": [],
       "output": []
     }
