@@ -25,5 +25,8 @@
   "UiPath.UIAutomationNext.Activities.Logging.SearchLog": "False",
   "UiPath.UIAutomationNext.Activities.Logging.SearchPerformanceLog": "False",
   "UiPath.UIAutomationNext.Activities.Logging.AuditLogLevel": "Trace",
-  "UiPath.UIAutomationNext.Activities.KeyboardEvents.KeyboardShortcutsDelayBetweenKeys": "0.1"
+  "UiPath.UIAutomationNext.Activities.KeyboardEvents.KeyboardShortcutsDelayBetweenKeys": "0.1",
+  "UiPath.UIAutomationNext.Activities.Generic.WaitPrimaryUntilTimeout": "False",
+  "UiPath.UIAutomationNext.Activities.ApplicationCard.OpenBrowserTimeoutSeconds": "60",
+  "UiPath.UIAutomationNext.Activities.InjectJs.InjectJsExecutionWorld": "Isolated"
 }

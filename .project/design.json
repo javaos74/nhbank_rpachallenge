@@ -6,5 +6,7 @@
     {
       "Key": "NHBank"
     }
-  ]
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
 }
